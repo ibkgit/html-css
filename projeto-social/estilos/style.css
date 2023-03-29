@@ -46,7 +46,7 @@ iframe#tela{
 
 section#redes-sociais{
     /*Configura lado dos BOTÕES das redes sociais*/
-    text-align: right;
+    text-align: left;
 }
 section#redes-sociais img{
    /*1 - Configurações de BOTÕES das redes sociais*/ 
